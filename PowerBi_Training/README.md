@@ -35,7 +35,10 @@
 
   ## Dashboards 
   
-  First dashboard created during the practise excersise.
+  First dashboard created during the practise exercise.
+  
+  <img width="944" alt="sale" src="https://user-images.githubusercontent.com/58165250/187298907-dc04eb06-1c22-45c4-9ff8-85fce847ea8d.PNG">
+
   
   [Sales Sample.pdf](https://github.com/NdutaCharity/Data_Analytics/files/9447929/Sales.Sample.pdf)
 
