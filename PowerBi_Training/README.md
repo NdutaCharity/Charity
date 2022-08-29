@@ -1,6 +1,6 @@
 # Power Bi Essential training
 
-  This was a training offered on LinkedIn's learning, offered by Gini von Courter
+  This was a training offered on LinkedIn's learning, offered by Gini von Courter.
   I completed the training on the 29th August 2022 and earned a [Certificate Of Completion](https://lnkd.in/d6vxMJ3t).
  
       
