@@ -32,3 +32,10 @@
             8. Using Power Bi mobile apps.
             9. Using Power Bi desktop.
 ```
+
+  ## Dashboards 
+  
+  First dashboard created during the practise excersise.
+  
+  [Sales Sample.pdf](https://github.com/NdutaCharity/Data_Analytics/files/9447929/Sales.Sample.pdf)
+
