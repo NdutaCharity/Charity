@@ -1,1 +1,1 @@
-The datasets used for thiis training.
+The datasets used for the training.
