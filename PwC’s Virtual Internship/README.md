@@ -1,5 +1,6 @@
   # PwC’s Virtual Case Experience in Power BI 
-      [Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/a87GpgE6tiku7q3gu?ref=ALmNaDvgqTTBZLyGR).
+    
+      [Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/a87GpgE6tiku7q3gu?ref=ALmNaDvgqTTBZLyGRurl)
 
   ## Objectives
   
