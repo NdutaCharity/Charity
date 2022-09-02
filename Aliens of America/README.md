@@ -20,4 +20,4 @@
             However, the administration of the prescription should be done with regard to occupation so as not to paralyze operations.
             
             
-     ![Aliens of America](https://user-images.githubusercontent.com/58165250/188124263-a847016b-b6a1-4a60-b100-50e3bebd75a0.jpeg)
+![Aliens of America](https://user-images.githubusercontent.com/58165250/188124263-a847016b-b6a1-4a60-b100-50e3bebd75a0.jpeg)
