@@ -14,7 +14,7 @@
       Their age
       It's up to you to clean up the data and report back
 
-           ## Reporting
+   ## Reporting
             How the alien population fits with the rest of the population was examined. 
             The best state to market our pharmaceuticals would be in Texas. 
             However, the administration of the prescription should be done with regard to occupation so as not to paralyze operations.
