@@ -21,5 +21,5 @@
    1. The dashboard was designed on PowerBi desktop.
    2. Since the xml file had so much data, I created a database on Access then Impoted the database to Poweri desktop.
 
-My first attemp looks pretty nice 
+My first attempt looks pretty nice 
 ![Call Centre Trends](https://user-images.githubusercontent.com/58165250/188118661-4c16140a-646b-4c65-89c7-e550c2ba7730.jpeg)
