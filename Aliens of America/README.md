@@ -1,4 +1,4 @@
-# Aliens in America Dataset by America Dataset Ian Klosowicz
+# Aliens in America Dataset by Ian Klosowicz
       For this project, you play a role as a newly hired Data Analyst for a pharmaceutical company.
 
       It's the year 2022 and aliens are well known to be living amongst us.
@@ -21,3 +21,14 @@
             
             
 ![Aliens of America](https://user-images.githubusercontent.com/58165250/188124263-a847016b-b6a1-4a60-b100-50e3bebd75a0.jpeg)
+
+
+  ### Updates
+
+Some errors were noted on the dashboard.
+     1. The labelling of the year of birth cards.
+
+### Queries conducted
+    Joining first name and last name
+    Renaming True/False responses on nature of aliens to Aggressive and Non-aggressive.
+    Calculating the age of the aliens as if 2022.
